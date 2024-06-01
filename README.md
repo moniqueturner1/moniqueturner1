@@ -1,4 +1,7 @@
-<h1>Hi, I'm Monique! <br/>
+<h1>Hi, I'm Monique! </h1>
+<a href="https://www.linkedin.com/in/monique-turner-9279b6310/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+I am currently employed as a Human Service Caseworker, and I have developed a passion for technology and its potential to change lives.  I'm excited to transistion into the tech field, where I can leverage my skills, contribute to innovative solutions, and drive positive change.
 
 <h2>👨‍💻 Cybersecurity Projects </h2>
 
@@ -23,7 +26,7 @@
 [<img align="left" alt="MoniqueTurner | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/moniquetur73177
-[linkedin]: https://www.linkedin.com/in/monique-turner-9279b6310/
+[linkedin]: https://www.linkedin.com/in/moniquecturner
 
 <!--
 Here are some ideas to get you started:
