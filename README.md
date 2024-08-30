@@ -1,5 +1,5 @@
 <h1>Hi, I'm Monique! </h1>
-<a href="www.linkedin.com/in/moniquecturner/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/moniquecturner/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am currently employed as a Human Service Caseworker, and I have developed a passion for technology and its potential to change lives.  I'm excited to transistion into the tech field, where I can leverage my skills, contribute to innovative solutions, and drive positive change.
 
